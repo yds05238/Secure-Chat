@@ -16,3 +16,6 @@ Big Integer library that supports RSA and AES Encryption/Decryption.
 
 
 
+## Key values
+- d: private key (used in decryption)
+- e, n: public key (used to encrypt)
