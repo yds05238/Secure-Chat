@@ -1,1 +1,1 @@
-g++ -Wall -std=c++17 server.cpp -o server 
+g++ -Wall -O2 -std=c++17 server.cpp -o server 

@@ -1,1 +1,1 @@
-g++ -Wall -std=c++17 client.cpp -o client 
+g++ -O2 -Wall -std=c++17 client.cpp -o client 

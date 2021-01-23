@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     //grab the port number
-    int port = server_port;
+    const int port = server_port;
     //buffer to send and receive messages with
     char msg[1500];
 

@@ -4,8 +4,8 @@
 
 int main(int argc, char *argv[])
 {
-    const char *serverIp = &server_ip[0];  //argv[1];
-    int port = server_port;                //atoi(argv[2]);
+    const char *serverIp = &server_ip[0];
+    const int port = server_port;
     //create a message buffer
     char msg[1500];
     //setup a socket and connection tools

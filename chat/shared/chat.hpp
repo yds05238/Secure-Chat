@@ -17,3 +17,4 @@
 #include <fcntl.h>
 #include <fstream>
 
+// define class with functions to create public/private keys 
