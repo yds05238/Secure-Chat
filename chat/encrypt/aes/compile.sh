@@ -1,0 +1,1 @@
+g++ -Wall -std=c++17 tests.cpp AES.cpp -o tests -lgtest -lpthread
