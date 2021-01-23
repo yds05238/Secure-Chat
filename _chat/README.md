@@ -29,10 +29,9 @@ message to Client.
 ## Usage 
 
 1. Compile server.cpp using compile-server.sh
-2. Start server (server 12345)
+2. Start server
 3. Compile client.cpp using compile-client.sh
-4. Start client (client 127.0.0.1 12345)
+4. Start client 
 5. Send chats (both directions)
-
 
 
